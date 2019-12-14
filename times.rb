@@ -1,5 +1,5 @@
   7.times do
-    def user_time
+    def using_time
 	  puts "Wingardium Leviosa"
   end
 
