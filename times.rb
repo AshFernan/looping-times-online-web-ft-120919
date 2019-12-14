@@ -4,7 +4,7 @@ puts "Wingardium Leviosa"
   end
 end
 
- looping_string 
+ using_times
 
 
 
